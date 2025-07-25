@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "张老师", "title": "教授", "department": "经济学院" },
+  { "id": 2, "name": "李老师", "title": "讲师", "department": "管理学院" }
+]
